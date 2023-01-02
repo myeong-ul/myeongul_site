@@ -1,68 +1,71 @@
 extends layout
 
 block content
-    a(id="top")
-    h1= title
-    div(class="category")
-        ul
-            li
-                a(href="#123") 1. 123
-            li
-                a(href="#abc") 2. abc
-            li
-                a(href="#ㄱ") 3. ㄱ
-            li
-                a(href="#ㄴ") 4. ㄴ
-            li
-                a(href="#ㄷ") 5. ㄷ
-            li
-                a(href="#ㄹ") 6. ㄹ
-            li
-                a(href="#ㅁ") 7. ㅁ
-            li
-                a(href="#ㅂ") 8. ㅂ
-            li
-                a(href="#ㅅ") 9. ㅅ
-            li
-                a(href="#ㅇ") 10. ㅇ
-            li
-                a(href="#ㅈ") 11. ㅈ
-            li
-                a(href="#ㅊ") 12. ㅊ
-            li
-                a(href="#ㅋ") 13. ㅋ
-            li
-                a(href="#ㅌ") 14. ㅌ
-            li
-                a(href="#ㅍ") 15. ㅍ
-            li
-                a(href="#ㅎ") 16. ㅎ
-            li
-                a(href="#ㄲ") 17. ㄲ
-            li
-                a(href="#특수문자") 18. 특수문자
-
-    div(class="novel_list")
-        if novels
-            for category in novels ? novels : []
-                a(id=category.name href="#top") #{category.id}. #{category.name}
+    div(class="content")
+        div(class="novel")
+            h1= title
+            span(value="time")= time
+            a(id="top")
+            div(class="category")
                 ul
-                    for novel in category.novel
-                        li
-                            span(value='title') #{novel.title}
-                            if novel.author
-                                span(value='author') (작가 : #{novel.author})
-                            else
-                                span(value='author_none') (작가 : 업데이트 중)
-                            span!=" - "
-                            span(value='nickname') #{novel.nickname}
-                            span!=" - "
-                            if novel.publisher
-                                - var publisher = novel.publisher.join(', ')
-                                span(value='publisher') 연재처 : !{publisher}
-                            else
-                                span(value='publisher_none') 연재처 : 업데이트 중
-        else
-            p 어라 이상하네요. 아직 소설이 없습니다. #{novels}
+                    li
+                        a(href="#123") 1. 123
+                    li
+                        a(href="#abc") 2. abc
+                    li
+                        a(href="#ㄱ") 3. ㄱ
+                    li
+                        a(href="#ㄴ") 4. ㄴ
+                    li
+                        a(href="#ㄷ") 5. ㄷ
+                    li
+                        a(href="#ㄹ") 6. ㄹ
+                    li
+                        a(href="#ㅁ") 7. ㅁ
+                    li
+                        a(href="#ㅂ") 8. ㅂ
+                    li
+                        a(href="#ㅅ") 9. ㅅ
+                    li
+                        a(href="#ㅇ") 10. ㅇ
+                    li
+                        a(href="#ㅈ") 11. ㅈ
+                    li
+                        a(href="#ㅊ") 12. ㅊ
+                    li
+                        a(href="#ㅋ") 13. ㅋ
+                    li
+                        a(href="#ㅌ") 14. ㅌ
+                    li
+                        a(href="#ㅍ") 15. ㅍ
+                    li
+                        a(href="#ㅎ") 16. ㅎ
+                    li
+                        a(href="#ㄲ") 17. ㄲ
+                    li
+                        a(href="#특수문자") 18. 특수문자
 
-    link(rel="stylesheet", href="/css/novel.css")
+            div(class="novel_list")
+                if novels
+                    for category in novels ? novels : []
+                        a(id=category.name href="#top") #{category.id}. #{category.name}
+                        ul
+                            for novel in category.novel
+                                li
+                                    span(value='title') #{novel.title}
+                                    if novel.author
+                                        span(value='author') (작가 : #{novel.author})
+                                    else
+                                        span(value='author_none') (작가 : 업데이트 중)
+                                    span!=" - "
+                                    span(value='nickname') #{novel.nickname}
+                                    span!=" - "
+                                    if novel.publisher
+                                        - var publisher = novel.publisher.join(', ')
+                                        span(value='publisher') 연재처 : !{publisher}
+                                    else
+                                        span(value='publisher_none') 연재처 : 업데이트 중
+                else
+                    p 어라 이상하네요. 아직 소설이 없습니다. #{novels}
+
+            link(rel="stylesheet", href="/css/novel.css")

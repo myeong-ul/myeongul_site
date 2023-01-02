@@ -4,9 +4,10 @@ html(lang="ko")
     title= title
     meta(charset='utf-8')
     meta(name='viewport', content='width=device-width, initial-scale=1')
-    link(rel='icon', href='img/favicon.ico')
+    link(rel='icon', href='img/favicon.ico', type='image/x-icon')
   body
-    include header
-    block content
-    include footer
+    div(class="app")
+      include header
+      block content
+      include footer
 

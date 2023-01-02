@@ -13,5 +13,8 @@
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11",
     "vhost": "^3.0.2"
+  },
+  "devDependencies": {
+    "node-schedule": "^2.1.0"
   }
 }
