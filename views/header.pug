@@ -1,0 +1,25 @@
+div(class="header")
+    div(class="header__logo")
+        a(href="/")
+            img(src="img/logo.png" alt="logo")
+script(type="javascript") window.addEventListener('resize', function () {document.querySelector('.header__logo').style.left = window.innerWidth / 2 - 250 + 'px';});
+<!--각종 바로가기 버튼-->
+div(class="shortcut")
+    div(class="shortcut__nav")
+        ul
+            li
+                a( href="https://blog.naver.com/myeongul_")
+                    button 블로그
+            li
+                a( href="https://myeongul.tistory.com/")
+                    button 티스토리
+            li
+                a( href="https://github.com/myeong-ul")
+                    button 깃허브
+            li
+                a( href="/short_novel_names")
+                    button 웹소설 단축어 목록
+            li
+                a( href="/novel")
+                    button 웹소설 단축어 목록 v2
+link(rel='stylesheet', href='css/header.css')

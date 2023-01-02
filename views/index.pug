@@ -1,0 +1,12 @@
+extends layout
+
+block content
+    <!--블로그 새글 목록-->
+    div( class="blogarea__title")
+        h1 블로그 새글 목록
+    div( id="blogarea")
+        div( class="blogarea__naver")
+            iframe( id="naverblog" src="https://blog.naver.com/PostList.nhn?blogId=myeongul_" width="49%" height="500px")
+        div(class="blogarea__tistory")
+            iframe( id="tistoryblog" src="https://myeongul.tistory.com/" width="49%" height="500px")
+    link(rel='stylesheet', href='css/index.css')

@@ -1,0 +1,44 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+.header__logo {
+    width: 250px;
+}
+.header__logo img {
+    width: 100%;
+}
+.shortcut {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    height: 50px;
+    background-color: lightgray;
+}
+.shortcut__nav {
+    overflow: auto;
+}
+.shortcut__nav ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.shortcut__nav ul li {
+    list-style: none;
+}
+.shortcut__nav ul li a button {
+    width: 100%;
+    height: 40px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    background-color: lightgray;
+    color: #1B9BC6;
+    font-size: 15px;
+    font-weight: bold;
+}

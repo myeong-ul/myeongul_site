@@ -1,0 +1,61 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body {
+    font-family: "맑은 고딕", "Malgun Gothic", "돋움", "Dotum", sans-serif;
+    font-size: 15px;
+}
+.category{
+    width: 150px;
+    margin: 10px 0;
+    background-color: lightgray;
+    border-radius: 5px;
+}
+.category ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.category ul li a {
+    text-decoration: none;
+    color: #1B9BC6;
+    font-weight: bold;
+}
+a[href="#top"] {
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+}
+.novel_list ul li a {
+    text-decoration: none;
+    color: cornflowerblue;
+    font-weight: bold;
+    background-color: lightgray;
+    border-radius: 5px;
+}
+.novel_list ul li span[value="title"] {
+    font-weight: bold;
+    color:#1B9BC6;
+}
+.novel_list ul li span[value="author"] {
+    font-size: 12px;
+    color: gray;
+    font-weight: initial;
+}
+.novel_list ul li span[value="author_none"] {
+    font-size: 12px;
+    color: gray;
+    font-style: italic;
+}
+.novel_list ul li span[value="nickname"] {
+    font-style: italic;
+    font-weight: bold;
+}
+.novel_list ul li span[value="publisher_none"] {
+    font-size: 10px;
+    color: gray;
+    font-style: italic;
+    border: #999999;
+}

@@ -4,7 +4,21 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
+var indexRouter = require('./routes/index');
+var usersRouter = require('./routes/users');
+var novelRouter = require('./routes/novel');
+var aboutRouter = require('./routes/about');
+
 var main = express();
+//http to https redirect
+// main.use(function(req, res, next) {
+//     if (req.secure) {
+//         next();
+//     }
+//     else {
+//         res.redirect('https://' + req.headers.host + req.url);
+//     }
+// });
 
 // view engine setup
 main.set('views', path.join(__dirname, 'views'));
@@ -17,11 +31,8 @@ main.use(cookieParser());
 main.use(express.static(path.join(__dirname, 'public')));
 
 main.get('/', async (req, res) => {
-  res.sendFile(path.join(__dirname, 'index.html'));
-    // res.render('index');
-});
-main.get('/about', async (req, res) => {
-    res.sendFile(path.join(__dirname, 'about.html'));
+  // res.sendFile(path.join(__dirname, 'index.html'));
+    res.render('index');
 });
 main.get('/img/:img', async (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'images', req.params.img));
@@ -38,6 +49,10 @@ main.get('/json/:json', async (req, res) => {
 main.get('/short_novel_names', async (req, res) => {
     res.sendFile(path.join(__dirname, 'short_novel_names.html'));
 });
+main.use('/novel', novelRouter);
+main.use('/users', usersRouter);
+main.use('/index', indexRouter);
+main.use('/about', aboutRouter);
 
 // catch 404 and forward to error handler
 main.use(function(req, res, next) {

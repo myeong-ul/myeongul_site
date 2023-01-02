@@ -1,0 +1,33 @@
+.blogarea__title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: lightgray;
+}
+.blogarea__title h1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+#blogarea {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    height: 500px;
+}
+.blogarea__naver {
+    width: 49%;
+}
+.blogarea__tistory {
+    width: 49%;
+
+}
+#naverblog {
+    border: 1px solid lightgray;
+    width: 100%;
+}
+#tistoryblog {
+    border: 1px solid lightgray;
+    width: 100%;
+}
