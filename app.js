@@ -6,7 +6,8 @@ var logger = require('morgan');
 
 var indexRouter = require('./routes/index');
 var novelRouter = require('./routes/novel');
-var aboutRouter = require('./routes/about');
+// var aboutRouter = require('./routes/about');
+// var usersRouter = require('./routes/users');
 
 var main = express();
 
@@ -14,25 +15,17 @@ var main = express();
 main.set('views', path.join(__dirname, 'views'));
 main.set('view engine', 'pug');
 
+//express-session setup
 main.use(logger('dev'));
 main.use(express.json());
 main.use(express.urlencoded({ extended: false }));
 main.use(cookieParser());
 main.use(express.static(path.join(__dirname, 'public')));
 
-main.get('/img/:img', async (req, res) => {
-    res.sendFile(path.join(__dirname, 'public', 'images', req.params.img));
-});
-main.get('/css/:css', async (req, res) => {
-    res.sendFile(path.join(__dirname, 'public', 'stylesheets', req.params.css));
-});
-main.get('/short_novel_names', async (req, res) => {
-    res.sendFile(path.join(__dirname, 'short_novel_names.html'));
-});
-
+//routes setup
 main.use('/', indexRouter);
 main.use('/novel', novelRouter);
-main.use('/about', aboutRouter);
+// main.use('/about', aboutRouter);
 
 // catch 404 and forward to error handler
 main.use(function(req, res, next) {
