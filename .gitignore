@@ -1,5 +1,5 @@
-./ssl
 .env
 /.idea/
 /.git/
 /node_modules/
+/ssl/
