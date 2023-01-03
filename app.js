@@ -1,13 +1,13 @@
+//import modules
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
+//import routes
 var indexRouter = require('./routes/index');
 var novelRouter = require('./routes/novel');
-// var aboutRouter = require('./routes/about');
-// var usersRouter = require('./routes/users');
 
 var main = express();
 
@@ -25,7 +25,6 @@ main.use(express.static(path.join(__dirname, 'public')));
 //routes setup
 main.use('/', indexRouter);
 main.use('/novel', novelRouter);
-// main.use('/about', aboutRouter);
 
 // catch 404 and forward to error handler
 main.use(function(req, res, next) {

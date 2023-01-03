@@ -1,15 +1,17 @@
+// import modules
 var express = require('express');
 var router = express.Router();
 var path = require('path');
 var fs = require('fs');
 var scheduler = require('node-schedule');
 
+// load novel data from json file at server start
 var novel;
 fs.readFile(path.join(__dirname,'../public','json', 'novel.json'), 'utf8', function(err, data) {
     if (err) throw err;
     novel = JSON.parse(data);
 });
-
+// load novel.json file everyday at 00:00
 const schedule = scheduler.scheduleJob('0 0 0 */1 * *', function(){
     fs.readFile(path.join(__dirname,'../public','json', 'novel.json'), 'utf8', function(err, data){
         if (err) throw err;
@@ -17,7 +19,8 @@ const schedule = scheduler.scheduleJob('0 0 0 */1 * *', function(){
         console.log("novel.json updated");
     });
 });
-month = {
+//Set Month
+const month = {
     'Jan': '01',
     'Feb': '02',
     'Mar': '03',
