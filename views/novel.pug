@@ -61,7 +61,9 @@ block content
                                     span(value='nickname') #{novel.nickname}
                                     span!=" - "
                                     if novel.publisher
-                                        - var publisher = novel.publisher.join(', ')
+                                        - publisher = []
+                                        - for (var i in novel.publisher) publisher.push("<a href=" + novel.publisher[i].url + ">" + novel.publisher[i].name + "</a>")
+                                        - publisher = publisher.join(", ")
                                         span(value='publisher') 연재처 : !{publisher}
                                     else
                                         span(value='publisher_none') 연재처 : 업데이트 중

@@ -3,3 +3,8 @@
 /.git/
 /node_modules/
 /ssl/
+/public/json/novel_list.json
+/public/json/novel2.json
+/bin/www1.js
+/request/
+/log/

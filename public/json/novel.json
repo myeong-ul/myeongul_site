@@ -7,19 +7,38 @@
         "title":"1++급 헌터유 밀크마스터",
         "author":"체이싱",
         "nickname":"헌터유",
-        "publisher": ["<a href='https://novelpia.com/novel/11039'>노벨피아</a>"]
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/11039"
+          }
+        ]
       },
       {
         "title":"15일뒤에 석화에서 풀리는 용사",
         "author":"만신창이",
         "nickname":"석화용사",
-        "publisher": ["<a href='https://novelpia.com/novel/73628'>노벨피아</a>"]
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/73628"
+          }
+        ]
       },
       {
         "title": "21세기 반로환동전",
         "author": "검미성",
         "nickname": "반로환동전",
-        "publisher": ["<a href='https://novel.munpia.com/291335'>문피아</a>", "<a href='https://series.naver.com/novel/detail.series?productNo=8214358'>시리즈</a>", "<a href='https://page.kakao.com/content/59415053'>카카오페이지</a>", "<a href='https://ridibooks.com/books/425282844'>리디북스</a>", "<a href='https://onestory.co.kr/detail/H042234534'>원스토리</a>", "<a href='https://www.joara.com/book/1623324'>조아라</a>"]
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/291335"
+          },
+          {
+            "name": "원스토어",
+            "url": "https://onestory.co.kr/detail/H042234534"
+          }
+        ]
       }
     ]
   },
@@ -30,12 +49,43 @@
       {
         "title":"SSS급 죽어야 사는 헌터",
         "author":"신노아",
-        "nickname":"스자헌, 좆살헌터"
+        "nickname":"스자헌, 좆살헌터",
+        "publisher":[
+          {
+            "name":"문피아",
+            "url":"https://novel.munpia.com/130581"
+          },
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.series?productNo=3962389"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/52822434"
+          },{
+            "name":"리디북스",
+            "url": "https://ridibooks.com/books/2065017814"
+          },
+          {
+            "name":"조아라",
+            "url":"https://www.joara.com/book/1376659"
+          },
+          {
+            "name":"원스토리",
+            "url":"https://onestory.co.kr/detail/H037315904"
+          }
+        ]
       },
       {
         "title":"S급들이 내게 집착한다",
         "author":"티모원딜",
-        "nickname":"S급집착, 스급집착"
+        "nickname":"S급집착, 스급집착",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/10622"
+          }
+        ]
       }
     ]
   },
@@ -46,32 +96,65 @@
       {
         "title":"강철을 먹는 플레이어",
         "author":"지점장",
-        "nickname":"강먹플"
+        "nickname":"강먹플",
+        "publisher":[
+          {
+            "name":"문피아",
+            "url":"https://novel.munpia.com/237726"
+          },
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.series?productNo=5991768"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/58101203"
+          },
+          {
+            "name":"리디북스",
+            "url": "https://ridibooks.com/books/425262298"
+          }
+        ]
       },
       {
         "title":"강제로 방송이 열렸습니다",
         "author":"눈내리는마을",
-        "nickname":"강제인방, 강제방송"
+        "nickname":"강제인방, 강제방송",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/79223"
+          }
+        ]
       },
       {
         "title":"감옥학원에서 나만 힐링할거다",
         "author":"미츄리",
-        "nickname":"감옥학원, 감옥힐링"
+        "nickname":"감옥학원, 감옥힐링",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/75754"
+          }
+        ]
       },
       {
         "title":"걸그룹 소설 아닌데요?",
         "author":"행운요정",
-        "nickname":"걸소아"
+        "nickname":"걸소아",
+        "publisher": ["https://novel.munpia.com/240560", "https://series.naver.com/novel/detail.series?productNo=6174862", "https://page.kakao.com/content/57328437","https://ridibooks.com/books/425216213","https://www.joara.com/book/1553641","https://onestory.co.kr/detail/H040836993"]
       },
       {
         "title":"게임4판타지",
         "author":"검미성",
-        "nickname":"겜4판"
+        "nickname":"겜4판",
+        "publisher": ["https://novel.munpia.com/201654", "https://series.naver.com/novel/detail.nhn?productNo=5386002", "https://page.kakao.com/home?seriesId=56854958", "https://ridibooks.com/books/425210845", "https://www.joara.com/premium_new/book_intro.html?book_code=1535233"]
       },
       {
         "title":"게임 속 마법사로 살아가는 법",
         "author":"하늘탑",
-        "nickname":"겜속마, 겜법사"
+        "nickname":"겜속마, 겜법사",
+        "publisher": ["https://novel.munpia.com/227096", "https://series.naver.com/novel/detail.nhn?productNo=5826883", "https://page.kakao.com/content/56624608","https://ridibooks.com/books/2065049671"]
       },
       {
         "title":"게임 속 전사가 되었다",
@@ -364,9 +447,9 @@
         "nickname":"댕청마녀"
       },
       {
-        "title":"던전.디펜스",
+        "title":"던전디펜스",
         "author":"",
-        "nickname":"던_디"
+        "nickname":"던디, 세계문학전집"
       },
       {
         "title":"독을 마시는 새",
@@ -1657,7 +1740,7 @@
       }
     ]
   },
-  "특수문자": {
+  "특수문자" : {
     "id": 18,
     "name": "특수문자",
     "novel": [

@@ -1,0 +1,14 @@
+extends layout
+block content
+  div(class="container")
+    div(class="logo")
+      a(href="/" id="home-link")
+        img(src="img/logo.png")
+    p(id='error')
+      span(id="status")= error.status + "File Not Found"
+      span(id="error_message")= "오류 발생"
+      br
+      span(class="content")= "요청하신 페이지를 찾을 수 없습니다."
+      br
+      span(class="content")= "올바른 주소로 요청하였는지 다시 한번 확인해 주세요."
+    link(rel="stylesheet", href="css/error.css")
