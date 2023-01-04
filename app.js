@@ -3,8 +3,7 @@ var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
-var logger = require('morgan');
-var accessLogStream = require('./log');
+var logger = require('./log');
 var indexRouter = require('./routes/index');
 var novelRouter = require('./routes/novel');
 
@@ -16,7 +15,8 @@ main.set('views', path.join(__dirname, 'views'));
 main.set('view engine', 'pug');
 
 //express-session setup
-main.use(logger('[:remote-addr] [:date[web]] :method :url :status :response-time ms', {stream: accessLogStream}));
+main.use(logger);
+
 // main.use(logger('dev'));
 main.use(express.json());
 main.use(express.urlencoded({ extended: false }));
