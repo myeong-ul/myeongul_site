@@ -24,18 +24,6 @@ main.use(cookieParser());
 main.use(express.static(path.join(__dirname, 'public')));
 
 /* GET render page. */
-main.get('/', function(req, res, next) {
-    return res.render('index');
-});
-main.get('/about', function(req, res, next) {
-    return res.render('about', { title: '명울에 대하여' });
-});
-main.get('/img/:img', async (req, res, next) => {
-    return res.sendFile(path.join(__dirname,'public', 'images', req.params.img));
-});
-main.get('/css/:css', async (req, res, next) => {
-    return res.sendFile(path.join(__dirname, 'public', 'stylesheets', req.params.css));
-});
 main.get('/404', function(req, res, next) {
     var error = new Error('Not Found');
     error.status = 404;

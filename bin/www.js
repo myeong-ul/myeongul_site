@@ -10,19 +10,19 @@ var debug = require('debug')('hello-world:server');
 var fs = require('fs');
 var path = require('path');
 var https = require('https');
+require('dotenv').config();
 
 /**
  * Get port from environment and store in Express.
  */
-var port = normalizePort(process.env.PORT || 'your port number');
+var port = normalizePort(process.env.PORT || "443");
 
 app.set('port', port);
 //http to https redirect
-
 const sslOptions = {
-    key: fs.readFileSync(path.join(__dirname,'your key file path')),
-    cert: fs.readFileSync(path.join(__dirname,'your cert file path')),
-    ca: fs.readFileSync(path.join(__dirname,'your ca file path'))
+    key: fs.readFileSync(path.join(__dirname,process.env.SSL_KEY)),
+    cert: fs.readFileSync(path.join(__dirname,process.env.SSL_CERT)),
+    ca: fs.readFileSync(path.join(__dirname,process.env.SSL_CA))
 };
 
 /**

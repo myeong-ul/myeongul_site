@@ -1,14 +1,20 @@
-extends layout
-block content
-  div(class="container")
-    div(class="logo")
-      a(href="/" id="home-link")
-        img(src="img/logo.png")
-    p(id='error')
-      span(id="status")= error.status
-      span(id="error_message")= message
-      br
-      span(class="content")= "올바른 주소로 요청하였는지 다시 한번 확인해 주세요."
-      br
-      span(class="content")= "만약 올바른 주소인데도 이 오류가 계속 발생한다면, 관리자에게 문의해 주세요."
-    link(rel="stylesheet", href="css/error.css")
+doctype html
+html(lang="ko")
+  head
+    title= title
+    meta(charset='utf-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    link(rel='icon', href='img/favicon.ico', type='image/x-icon')
+  body
+    div(class="container")
+      div(class="logo")
+        a(href="/" id="home-link")
+          img(src="img/logo.png")
+      p(id='error')
+        span(id="status")= error.status
+        span(id="error_message")= message
+        br
+        span(class="content")= "올바른 주소로 요청하였는지 다시 한번 확인해 주세요."
+        br
+        span(class="content")= "만약 올바른 주소인데도 이 오류가 계속 발생한다면, 관리자에게 문의해 주세요."
+      link(rel="stylesheet", href="css/error.css")

@@ -71,3 +71,13 @@ block content
                     p 어라 이상하네요. 아직 소설이 없습니다. #{novels}
 
             link(rel="stylesheet", href="/css/novel.css")
+            script(type="text/javascript").
+                window.onresize = function() {
+                    if (window.innerWidth < 900) {
+                        document.querySelector('.novel').style.width = window.innerWidth*0.98 + 'px';
+                    } else {
+                        document.querySelector('.novel').style.width = "80%";
+                    }
+                }
+
+

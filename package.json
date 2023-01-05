@@ -15,6 +15,7 @@
     "vhost": "^3.0.2"
   },
   "devDependencies": {
+    "dotenv": "^16.0.3",
     "node-schedule": "^2.1.0"
   }
 }

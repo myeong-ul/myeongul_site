@@ -18,6 +18,9 @@ router.get('/img/:img', async (req, res) => {
 router.get('/css/:css', async (req, res) => {
   res.sendFile(path.join(__dirname, '..','public', 'stylesheets', req.params.css));
 });
+router.get('/js/:js', async (req, res) => {
+    res.sendFile(path.join(__dirname, '..','public', 'javascripts', req.params.js));
+});
 
 //export router
 module.exports = router;
