@@ -13,21 +13,23 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 20px;
-    height: 500px;
+    padding: 0 10px;
 }
 .blogarea__naver {
-    width: 49%;
+    width: 49.8%;
+    height: 100%;
 }
 .blogarea__tistory {
-    width: 49%;
-
+    width: 49.8%;
+    height: 100%;
 }
 #naverblog {
     border: 1px solid lightgray;
     width: 100%;
+    height: 100%;
 }
 #tistoryblog {
     border: 1px solid lightgray;
     width: 100%;
+    height: 100%;
 }

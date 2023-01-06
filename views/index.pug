@@ -10,3 +10,18 @@ block content
         div(class="blogarea__tistory")
             iframe( id="tistoryblog" src="https://myeongul.tistory.com/" width="49%" height="500px")
     link(rel='stylesheet', href='css/index.css')
+    script(type="text/javascript").
+        document.querySelector('#blogarea').style.height = 500 + 'px';
+        window.onresize = function() {
+            if (window.innerHeight > 800) {
+                if(window.scrollbars){
+                    document.querySelector('#blogarea').style.height = window.innerHeight - 300 + 'px';
+                }
+                else {
+                    document.querySelector('#blogarea').style.height = window.innerHeight - 200 + 'px';
+                }
+            }
+            else {
+                document.querySelector('#blogarea').style.height = '500px';
+            }
+        }
