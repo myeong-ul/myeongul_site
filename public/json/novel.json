@@ -142,109 +142,312 @@
         "title":"걸그룹 소설 아닌데요?",
         "author":"행운요정",
         "nickname":"걸소아",
-        "publisher": ["https://novel.munpia.com/240560", "https://series.naver.com/novel/detail.series?productNo=6174862", "https://page.kakao.com/content/57328437","https://ridibooks.com/books/425216213","https://www.joara.com/book/1553641","https://onestory.co.kr/detail/H040836993"]
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/240560"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=6174862"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/57328437"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/425216213"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1553641"
+          },
+          {
+            "name": "원스토리",
+            "url": "https://onestory.co.kr/detail/H040836993"
+          }
+        ]
       },
       {
         "title":"게임4판타지",
         "author":"검미성",
         "nickname":"겜4판",
-        "publisher": ["https://novel.munpia.com/201654", "https://series.naver.com/novel/detail.nhn?productNo=5386002", "https://page.kakao.com/home?seriesId=56854958", "https://ridibooks.com/books/425210845", "https://www.joara.com/premium_new/book_intro.html?book_code=1535233"]
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/201654"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=5386002"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/56854958"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/425210845"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1535233"
+          }
+        ]
       },
       {
         "title":"게임 속 마법사로 살아가는 법",
         "author":"하늘탑",
         "nickname":"겜속마, 겜법사",
-        "publisher": ["https://novel.munpia.com/227096", "https://series.naver.com/novel/detail.nhn?productNo=5826883", "https://page.kakao.com/content/56624608","https://ridibooks.com/books/2065049671"]
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/227096"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=5826883"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/56624608"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/2065049671"
+          }
+        ]
       },
       {
         "title":"게임 속 전사가 되었다",
-        "author":"",
-        "nickname":"겜전사"
+        "author":"컵라면.",
+        "nickname":"겜전사",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/156968"
+          },
+            {
+                "name": "시리즈",
+                "url": "https://series.naver.com/novel/detail.series?productNo=4675638"
+            },
+            {
+                "name": "카카오페이지",
+                "url": "https://page.kakao.com/content/54139526"
+            },
+            {
+                "name": "리디북스",
+                "url": "https://ridibooks.com/books/425138730"
+            },
+            {
+                "name": "조아라",
+                "url": "https://ridibooks.com/books/425138730"
+            },
+            {
+                "name": "원스토리",
+                "url": "https://onestory.co.kr/detail/H038842878"
+            }
+        ]
       },
       {
         "title":"게임 속 바바리안이 되었다",
-        "author":"",
-        "nickname":"겜바바"
+        "author":"정윤강",
+        "nickname":"겜바바",
+        "publisher": [
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=6037518"
+          }
+        ]
       },
       {
         "title":"겸허, 견실을 모토로 살아가고 있습니다",
-        "author":"",
-        "nickname":"겸허견실"
+        "author":"ひよこのケーキ",
+        "nickname":"겸허견실",
+        "publisher": [
+          {
+            "name": "소설가가 되자",
+            "url": "https://ncode.syosetu.com/n4029bs/"
+          }
+        ]
       },
       {
         "title":"경성의 헌터 아카데미",
-        "author":"",
-        "nickname":"경성헌터, 경성훈타"
+        "author":"전자강시",
+        "nickname":"경성헌터, 경성훈타",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/28295"
+          }
+        ]
       },
       {
         "title":"고블린 천마",
-        "author":"",
-        "nickname":"고천마"
+        "author":"내나누내",
+        "nickname":"고천마",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/22870"
+          }
+        ]
       },
       {
         "title":"고결에 오만이 깃들때",
-        "author":"",
-        "nickname":"고오깃"
+        "author":"서후",
+        "nickname":"고오깃",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/64584"
+          }
+        ]
       },
       {
         "title":"공주는 죽어서 키운다",
-        "author":"",
-        "nickname":"공죽키"
+        "author":"구팽이",
+        "nickname":"공죽키",
+        "publisher": [
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=8896405"
+          },
+            {
+                "name": "카카오페이지",
+                "url": "https://page.kakao.com/content/52932133"
+            },
+            {
+                "name": "리디북스",
+                "url": "https://ridibooks.com/books/3049029648"
+            }
+        ]
       },
       {
         "title":"공주님은 애완용 뱀파이어",
-        "author":"",
-        "nickname":"애완모기"
+        "author":"바보새도도",
+        "nickname":"애완모기",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/82749"
+          }
+        ]
       },
       {
         "title":"구라 안치고 진짜 엑스트라",
-        "author":"",
-        "nickname":"구진엑"
+        "author":"김갈비뼈",
+        "nickname":"구진엑",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/96051"
+          }
+        ]
       },
       {
         "title":"괴담 동아리",
-        "author":"",
-        "nickname":"괴담동"
+        "author":"오직재미",
+        "nickname":"괴담동",
+        "publisher": [
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/54701995"
+          }
+        ]
       },
       {
         "title":"괴물이 사는 도시",
-        "author":"",
-        "nickname":"괴물시티"
+        "author":"LOCOLOCO",
+        "nickname":"괴물시티, 괴물도시",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/70217"
+          }
+        ]
       },
       {
         "title":"괴물서커스단의 단장이 되었다",
-        "author":"",
-        "nickname":"괴물서커스"
+        "author":"고사리동",
+        "nickname":"괴물서커스",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/27940"
+          }
+        ]
       },
       {
         "title":"귀쟁이 투기장의 역배 기사님",
-        "author":"",
-        "nickname":"역배기사"
+        "author":"맥주포션",
+        "nickname":"역배기사",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/41002"
+          }
+        ]
       },
       {
         "title":"귀환자의 마법은 특별해야 합니다",
-        "author":"",
-        "nickname":"귀마특"
+        "author":"유소난",
+        "nickname":"귀마특",
+        "publisher": [
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/48930098"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/777094433"
+          }
+        ]
       },
       {
         "title":"그녀를 피해야만 하는 이유",
-        "author":"",
-        "nickname":"그피이"
+        "author":"뚜시",
+        "nickname":"그피이",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/54231"
+          }
+        ]
       },
       {
         "title":"그냥 한잔할까요?",
-        "author":"",
-        "nickname":"그냥한잔"
+        "author":"망크빵",
+        "nickname":"그냥한잔",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/776"
+          }
+        ]
       },
       {
         "title":"그래도 살아간다",
-        "author":"",
-        "nickname":"그살"
+        "author":"AngelTear",
+        "nickname":"그살",
+        "publisher": [
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1278266"
+          }
+        ]
       },
       {
         "title":"그래도 설원입니다",
-        "author":"",
-        "nickname":"설원"
+        "author":"글쟁이S",
+        "nickname":"설원",
+        "publisher": [
+          {
+            "name": "조아라",
+            "url": "http://www.joara.com/book/1021807"
+          }
+        ]
       }
     ]
   },
@@ -254,8 +457,26 @@
     "novel": [
       {
         "title": "나 혼자만 레벨업",
-        "author": "",
-        "nickname": "나혼렙"
+        "author": "추공",
+        "nickname": "나혼렙",
+        "publisher": [
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=3207276"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/48787313"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/777034313"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1430230"
+          }
+        ]
       },
       {
         "title": "나 혼자만 소드마스터",
