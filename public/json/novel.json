@@ -480,146 +480,440 @@
       },
       {
         "title": "나 혼자만 소드마스터",
-        "author": "",
-        "nickname": "나혼소마, 나혼소"
+        "author": "무영자",
+        "nickname": "나혼소마, 나혼소",
+        "publisher": [
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/55526226"
+          }
+        ]
       },
       {
         "title": "나를 위해 살겠다",
-        "author": "",
-        "nickname": "나위살"
+        "author": "글쟁이S",
+        "nickname": "나위살",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/56410"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=2346984"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/49836255"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/425004899"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1246638"
+          }
+        ]
       },
       {
         "title": "나쁜말 해도 되는 인방",
-        "author": "",
-        "nickname": "나쁜말인방"
+        "author": "댕댕콘",
+        "nickname": "나쁜말인방",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/238"
+          }
+        ]
       },
       {
         "title": "나의 악당들",
-        "author": "",
-        "nickname": "이블파티, 나악들"
+        "author": "파랑손",
+        "nickname": "이블파티, 나악들",
+        "publisher": [
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/55826557"
+          }
+        ]
       },
       {
         "title": "나만 백퍼센트 순혈 인간",
-        "author": "",
-        "nickname": "순혈인간"
+        "author": "메론",
+        "nickname": "순혈인간",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/234339"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=5952034"
+          }
+        ]
       },
       {
         "title": "나작소 작가에게 감금당했다",
-        "author": "",
-        "nickname": "나작소감금"
+        "author": "papapa",
+        "nickname": "나작소감금",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/16366"
+          }
+        ]
       },
       {
         "title": "날 차버린 소꿉친구와 전 여친이 같은 반이라 곤란하다",
-        "author": "",
-        "nickname": "소꿉전여친"
+        "author": "몰루",
+        "nickname": "소꿉전여친",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/25836"
+          }
+        ]
       },
       {
         "title": "날고 기는 뉴비",
-        "author": "",
-        "nickname": "날기뉴"
+        "author": "점선",
+        "nickname": "날기뉴",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/480"
+          }
+        ]
       },
       {
         "title": "남녀역전세계의 걸레",
-        "author": "",
-        "nickname": "역전걸레"
+        "author": "네프로래피스",
+        "nickname": "역전걸레",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/3597"
+          }
+        ]
       },
       {
         "title": "남녀역전세계의 혼혈아",
-        "author": "",
-        "nickname": "역전튀기, 혼혈아"
+        "author": "헤진랑",
+        "nickname": "역전튀기, 혼혈아",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/3162"
+          }
+        ]
       },
       {
         "title": "남동생이 동생으로 안 보여서 고민이에요",
-        "author": "",
-        "nickname": "(NTK)남동생"
+        "author": "NTK",
+        "nickname": "(NTK)남동생",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/1509"
+          }
+        ]
       },
       {
         "title": "남자가 게임을 잘함",
-        "author": "",
-        "nickname": "남겜잘, 럭키그살"
+        "author": "치킨먹으려고돈범",
+        "nickname": "남겜잘, 럭키그살",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/294818"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=6344695"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/57401071"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://page.kakao.com/content/57401071"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1426199"
+          }
+        ]
       },
       {
         "title": "남자인데 인기가 많음",
-        "author": "",
+        "author": "안올",
         "nickname": "짭겜잘"
       },
       {
         "title": "납골당의 어린 왕자",
-        "author": "",
-        "nickname": "납골당"
+        "author": "통구스카",
+        "nickname": "납골당",
+        "publisher": [
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?OSType=pc&productNo=2470441"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/1561001561"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1100090"
+          }
+        ]
       },
       {
         "title": "내 독일에 나치는 필요없다",
-        "author": "",
-        "nickname": "내독나없"
+        "author": "카르카손",
+        "nickname": "내독나없",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/184712"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=5080470"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/55001194"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/2057115600"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1466596"
+          }
+        ]
       },
       {
-        "title": "내 버프는 마약아다",
-        "author": "",
-        "nickname": "내벞마"
+        "title": "내 버프는 마약이다",
+        "author": "살녹",
+        "nickname": "내벞마",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/731"
+          }
+        ]
       },
       {
         "title": "내가 제로콜라를 좋아하게 될 때까지",
-        "author": "",
-        "nickname": "제로콜라"
+        "author": "ryute",
+        "nickname": "제로콜라",
+        "publisher": [
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1468075"
+          }
+        ]
       },
       {
         "title": "내가 키운 S급들",
-        "author": "",
-        "nickname": "내s급, ass급"
+        "author": "근서",
+        "nickname": "내s급, ass급",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "http://novel.munpia.com/121553"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=3777351"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/52468302"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/2065016312"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1359614"
+          }
+        ]
       },
       {
         "title": "내가 키운 천마님들",
-        "author": "",
-        "nickname": "천마걸스,내키천"
+        "author": "우현민",
+        "nickname": "천마걸스,내키천",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/17351"
+          }
+        ]
       },
       {
-        "title": "내가 쓰다 만 소설의 등장하지도 않는 성녀가 되어버렸다-연중성녀"
+        "title": "내가 쓰다 만 소설의 등장하지도 않는 성녀가 되어버렸다",
+        "author": "십삼중수소",
+        "nickname":"연중성녀",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/15597"
+          }
+        ]
       },
       {
         "title": "내게 주인공은 살인이다",
-        "author": "",
-        "nickname": "내주살"
+        "author": "은밀히",
+        "nickname": "내주살",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/197681"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=5222470"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/55222576"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/2057144182"
+          }
+        ]
       },
       {
         "title": "내 휴대폰에서 군단이 자란다",
-        "author": "",
-        "nickname": "폰군단"
+        "author": "아르무",
+        "nickname": "폰군단",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/61322"
+          }
+        ]
       },
       {
         "title": "넣어 키운 걸그룹",
-        "author": "",
-        "nickname": "넣키걸"
+        "author": "burn7",
+        "nickname": "넣키걸",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/123381"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/1534071972"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1333201"
+          },
+          {
+            "name": "원스토리",
+            "url": "https://onestory.co.kr/detail/H035182145"
+          }
+        ]
       },
       {
         "title": "네크로맨서 학교의 소환 천재",
-        "author": "",
-        "nickname": "네크천재"
+        "author": "일제사격",
+        "nickname": "네크천재",
+        "publisher": [
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/55516007"
+          }
+        ]
       },
       {
         "title": "네가 없는 거리는",
-        "author": "",
-        "nickname": "네없거"
+        "author": "LOCOLOCO",
+        "nickname": "네없거",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/85534"
+          }
+        ]
       },
       {
         "title": "누나가 동생을 감금함",
-        "author": "",
-        "nickname": "누동감"
+        "author": "홍삼더덕",
+        "nickname": "누동감",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/201739"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=5424050"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/60097219"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/3049009278"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1480228"
+          }
+        ]
       },
       {
         "title": "눈물을 마시는 새",
-        "author": "",
-        "nickname": "눈마새"
+        "author": "이영도",
+        "nickname": "눈마새",
+        "publisher": [
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/55169813"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/682000039"
+          },
+          {
+            "name": "원스토리",
+            "url": "https://onestory.co.kr/detail/H033214127"
+          }
+        ]
       },
       {
         "title": "닉네임을 잘못 정했다",
-        "author": "",
-        "nickname": "닉잘못"
+        "author": "꽃의 폭풍",
+        "nickname": "닉잘못",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/35376"
+          }
+        ]
       },
       {
         "title": "느그 플랑은 무료로 해줍니다",
-        "author": "",
-        "nickname": "느그플랑"
+        "author": "치킨떙긴다",
+        "nickname": "느그플랑",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/627"
+          }
+        ]
       }
     ]
   },
