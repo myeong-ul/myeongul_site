@@ -52,7 +52,12 @@ block content
                         ul
                             for novel in category.novel
                                 li
-                                    span(value='title') #{novel.title}
+                                    if novel.status === "1"
+                                        span(value='title_end') #{novel.title}
+                                    else if novel.status === "2"
+                                        span(value='title_stop') #{novel.title}
+                                    else
+                                        span(value='title') #{novel.title}
                                     if novel.author
                                         span(value='author') (작가 : #{novel.author})
                                     else

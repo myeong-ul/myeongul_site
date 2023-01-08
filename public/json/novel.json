@@ -923,68 +923,190 @@
     "novel": [
       {
         "title":"다크판타지의 첩보요원",
-        "author":"",
-        "nickname":"다크판첩, 닼판첩, 판첩"
+        "author":"치킨발골전문가",
+        "nickname":"다크판첩, 닼판첩, 판첩",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/24467"
+          }
+        ]
       },
       {
         "title":"다크판타지의 망캐가 되었다",
-        "author":"",
-        "nickname":"닼판망캐"
+        "author":"서홍",
+        "nickname":"닼판망캐",
+        "publisher":[
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/58218457"
+          }
+        ]
       },
       {
         "title":"닥터 최태수",
-        "author":"",
-        "nickname":"최태수"
+        "author":"조석호",
+        "nickname":"최태수",
+        "publisher":[
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.nhn?productNo=1870800"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/47495746"
+          },
+          {
+            "name":"리디북스",
+            "url":"https://ridibooks.com/books/2299000001"
+          },
+          {
+            "name":"조아라",
+            "url":"https://www.joara.com/book/988326"
+          }
+        ]
       },
       {
         "title":"달빛조각사",
-        "author":"",
-        "nickname":"달조"
+        "author":"남희성",
+        "nickname":"달조",
+        "publisher":[
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.nhn?productNo=1315886"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/29226849"
+          },
+          {
+            "name":"리디북스",
+            "url":"https://ridibooks.com/books/1377010394"
+          }
+        ]
       },
       {
         "title":"대마법사였던것은 다시 대마법사를 꿈꾼다",
-        "author":"",
-        "nickname":"대마대"
+        "author":"day2day",
+        "nickname":"대마대",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/998"
+          }
+        ]
       },
       {
         "title":"대충 이세계 TS물",
-        "author":"",
-        "nickname":"대이티"
+        "author":"오곡전도사",
+        "nickname":"대이티, 대이TS",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/1058"
+          }
+        ]
       },
       {
         "title":"대충 이세계 최면물",
-        "author":"",
-        "nickname":"대이최"
+        "author":"오곡전도사",
+        "nickname":"대이최",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/1052"
+          }
+        ]
       },
       {
         "title":"댕청 마녀는 조용히 살고싶어",
-        "author":"",
-        "nickname":"댕청마녀"
+        "author":"그림",
+        "nickname":"댕청마녀",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/44941"
+          }
+        ]
       },
       {
         "title":"던전디펜스",
-        "author":"",
-        "nickname":"던디, 세계문학전집"
+        "author":"유헌화",
+        "nickname":"던디, 세계문학전집",
+        "publisher":[
+          {
+            "name":"문피아",
+            "url":"https://novel.munpia.com/24989"
+          },
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.nhn?productNo=3075030"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/50281811"
+          },
+          {
+            "name":"리디북스",
+            "url":"https://ridibooks.com/books/2036001157"
+          },
+          {
+            "name":"조아라",
+            "url":"https://www.joara.com/book/911136"
+          },
+          {
+            "name":"원스토리",
+            "url": "https://onestory.co.kr/detail/H031416545"
+          }
+        ]
       },
       {
-        "title":"독을 마시는 새",
-        "author":"",
-        "nickname":"독마새"
+        "title":"독약을 마시는 새",
+        "author":"이영도",
+        "nickname":"독마새",
+        "publisher":[
+          {
+            "name":"그딴건 없다",
+            "url":"https://gall.dcinside.com/mgallery/board/view/?id=genrenovel&no=605907"
+          }
+        ]
       },
       {
         "title":"드래곤을 유괴하다",
-        "author":"",
-        "nickname":"드유"
+        "author":"유주",
+        "nickname":"드유",
+        "publisher":[
+          {
+            "name":"문피아",
+            "url":"https://novel.munpia.com/150163"
+          },
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.nhn?productNo=4926503"
+          }
+        ]
       },
       {
         "title":"들불, 피 그리고 칼",
-        "author":"",
-        "nickname":"들피칼"
+        "author":"04공사",
+        "nickname":"들피칼",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/78464"
+          }
+        ]
       },
       {
-        "title":"따먹히고 싶다",
-        "author":"",
-        "nickname":"따먹싶"
+        "title":"따먹히고 싶다R",
+        "author":"Tovo",
+        "nickname":"따먹싶",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/1168"
+          }
+        ]
       }
     ]
   },
@@ -994,38 +1116,116 @@
     "novel": [
       {
         "title":"로맨스판타지로 떨어진 S급 헌터",
-        "author":"",
-        "nickname":"로판헌터"
+        "author":"시저디",
+        "nickname":"로판헌터",
+        "publisher":[
+          {
+            "name":"문피아",
+            "url":"https://novel.munpia.com/223221"
+          },
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.series?productNo=5714402"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/56342181"
+          },
+          {
+            "name":"리디북스",
+            "url":"https://ridibooks.com/books/2065042341"
+          },
+          {
+            "name":"조아라",
+            "url":"https://www.joara.com/book/1536720"
+          }
+        ]
       },
       {
         "title":"로판 속 공무원",
-        "author":"",
-        "nickname":"로무원, 로무현"
+        "author":"보르지긴",
+        "nickname":"로무원, 로무현",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/97161"
+          }
+        ]
       },
       {
         "title":"로판 속 악녀의 호위기사가 되었다",
-        "author":"",
-        "nickname":"악녀호위"
+        "author":"르밀리옹",
+        "nickname":"악녀호위",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/20190"
+          }
+        ]
       },
       {
         "title":"로판 속 용의 약혼자가 되었다",
-        "author":"",
-        "nickname":"로판용"
+        "author":"서후",
+        "nickname":"로판용",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/22527"
+          }
+        ]
       },
       {
         "title":"룬의 아이들",
-        "author":"",
-        "nickname":"룬아"
+        "author":"전민희",
+        "nickname":"룬아",
+        "publisher":[
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.nhn?productNo=5033830"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/51208779"
+          }
+        ]
       },
       {
         "title":"리라이프 플레이어",
-        "author":"",
-        "nickname":"리라플"
+        "author":"시윤",
+        "nickname":"리라플",
+        "publisher":[
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.series?productNo=8852910"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/51274727"
+          },
+          {
+            "name":"리디북스",
+            "url":"https://ridibooks.com/books/1377098158"
+          },
+          {
+            "name":"조아라",
+            "url":"https://www.joara.com/book/1641825"
+          },
+          {
+            "name":"원스토리",
+            "url":"https://onestory.co.kr/detail/H043322852"
+          }
+        ]
       },
       {
         "title":"리미트 브레이커",
-        "author":"",
-        "nickname":"리밋뷁"
+        "author":"시바트",
+        "nickname":"리밋뷁",
+        "publisher":[
+          {
+            "name":"조아라",
+            "url":"https://www.joara.com/book/780224"
+          }
+        ]
       }
     ]
   },
@@ -1035,153 +1235,487 @@
     "novel": [
       {
         "title":"마녀의 도시",
-        "author":"",
-        "nickname":"마녀시티"
+        "author":"섦게지는꽃",
+        "nickname":"마녀시티",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/23"
+          }
+        ]
       },
       {
         "title":"마법대학 신임교수의 연구생활",
-        "author":"",
-        "nickname":"신임교수, 임신교수"
+        "author":"케오제",
+        "nickname":"신임교수, 임신교수",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/51445"
+          }
+        ]
       },
       {
         "title":"마법사가 살아남는 법",
-        "author":"",
-        "nickname":"마살법"
+        "author":"개돌청년",
+        "nickname":"마살법",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/65278"
+          }
+        ]
       },
       {
         "title":"마법소녀 아저씨",
-        "author":"",
-        "nickname":"마저씨"
+        "author":"냥둘러치기",
+        "nickname":"마저씨",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://page.kakao.com/content/55996525"
+          }
+        ]
       },
       {
         "title":"마법소녀 최면물",
-        "author":"",
-        "nickname":"마최물"
+        "author":"NTK",
+        "nickname":"마최물",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/8051"
+          }
+        ]
       },
       {
         "title":"마법학교 앞점멸 천재가 되었다",
-        "author":"",
-        "nickname":"앞점멸천재"
+        "author":"은밀히",
+        "nickname":"앞점멸천재",
+        "publisher":[
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/56561961"
+          }
+        ]
       },
       {
         "title":"마약 소꿉친구가 되었다",
-        "author":"",
-        "nickname":"마약소꿉"
+        "author":"무시야",
+        "nickname":"마약소꿉",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/72761"
+          }
+        ],
+        "status": "2"
       },
       {
         "title":"마왕가 비선실세",
-        "author":"",
-        "nickname":"마왕순실"
+        "author":"퐁당",
+        "nickname":"마왕순실",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/3468"
+          }
+        ],
+        "status": "1"
       },
       {
         "title":"마왕이 없는 세계",
-        "author":"",
-        "nickname":"마없세"
+        "author":"LOCOLOCO",
+        "nickname":"마없세",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/38564"
+          }
+        ],
+        "status": "1"
       },
       {
         "title":"마왕은 학원에 간다",
-        "author":"",
-        "nickname":"마왕학원, 마학간"
+        "author":"글쟁이S",
+        "nickname":"마왕학원, 마학간",
+        "publisher":[
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.series?productNo=8914610"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/56510701"
+          },
+          {
+            "name":"리디북스",
+            "url":"https://ridibooks.com/books/3092017733"
+          }
+        ]
       },
       {
         "title":"마조 양, 괴물이 머리를 삼키고 있어요",
-        "author":"",
-        "nickname":"마조양"
+        "author":"위뷔",
+        "nickname":"마조양",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/6403"
+          }
+        ],
+        "status": "1"
       },
       {
         "title":"마조히스트 성녀로서 게임 속 세상을 살아간다는 것",
-        "author":"",
-        "nickname":"마조성녀"
+        "author":"위뷔",
+        "nickname":"마조성녀",
+        "publisher":[
+          {
+            "name":"조아라",
+            "url":"https://www.joara.com/book/1208701"
+          },
+          {
+            "name":"노벨피아(리메이크판 추정)",
+            "url":"https://novelpia.com/novel/132764"
+          }
+        ]
       },
       {
         "title":"마차 와인 테라스",
-        "author":"",
-        "nickname":"마와테"
+        "author":"B사감",
+        "nickname":"마와테",
+        "publisher":[
+          {
+            "name":"타입문",
+            "url":"https://www.typemoon.net/write_free2?sfl=wr_subject&stx=크킹&sop=and&page=3"
+          }
+        ],
+        "status": "1"
       },
       {
         "title":"막장 드라마의 제왕",
-        "author":"",
-        "nickname":"막드제"
+        "author":"고별",
+        "nickname":"막드제",
+        "publisher":[
+          {
+            "name":"문피아",
+            "url":"https://novel.munpia.com/165603"
+          },
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.nhn?productNo=4686571"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/54210664"
+          },
+          {
+            "name":"리디북스",
+            "url":"https://ridibooks.com/books/2057099433"
+          },
+          {
+            "name":"조아라",
+            "url":"https://www.joara.com/book/1428978"
+          },
+          {
+            "name":"원스토리",
+            "url":"https://onestory.co.kr/detail/H038989710"
+          }
+        ],
+        "status": "1"
       },
       {
         "title":"만년 만에 귀환한 플레이어",
-        "author":"",
-        "nickname":"만귀플"
+        "author":"나비계곡",
+        "nickname":"만귀플",
+        "publisher":[
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/51421747"
+          }
+        ],
+        "status": "1"
       },
       {
-        "title":"만화 속 남녀합체 로봇물의 금태양이 되었다",
-        "author":"",
-        "nickname":"로봇금태양, (남녀)합체 금태양"
+        "title":"만화 속 금태양이 되었다",
+        "author":"happylazy",
+        "nickname":"로봇금태양, (남녀)합체 금태양",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/22700"
+          }
+        ],
+        "status": "2"
       },
       {
         "title":"망겜에 갇힌 고인물",
-        "author":"",
-        "nickname":"망갇고, 망겜고"
+        "author":"체엔",
+        "nickname":"망갇고, 망겜고",
+        "publisher":[
+          {
+            "name":"문피아",
+            "url":"https://novel.munpia.com/261160"
+          },
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.series?productNo=6725682"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/57703235"
+          },
+          {
+            "name":"리디북스",
+            "url":"https://ridibooks.com/books/2057169229"
+          },
+          {
+            "name":"조아라",
+            "url":"https://www.joara.com/book/1587189"
+          }
+        ]
       },
       {
         "title":"망겜의 성기사",
-        "author":"",
-        "nickname":"망겜성"
+        "author":"검미성",
+        "nickname":"망겜성",
+        "publisher":[
+          {
+            "name":"문피아",
+            "url":"https://novel.munpia.com/132527"
+          },
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.nhn?productNo=4075402"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/53545496"
+          },
+          {
+            "name":"리디북스",
+            "url":"https://ridibooks.com/books/425101314"
+          },
+          {
+            "name":"조아라",
+            "url":"https://www.joara.com/book/1366065"
+          }
+        ],
+        "status": "1"
       },
       {
         "title":"매도 당하고 싶은 엘프님",
-        "author":"",
-        "nickname":"매도엘(깐)프"
+        "author":"사육실장",
+        "nickname":"매도엘(깐)프",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/2008"
+          },
+          {
+            "name":"원스토리",
+            "url":"https://onestory.co.kr/detail/H043083985"
+          }
+        ],
+        "status": "1"
       },
       {
         "title":"메모라이즈",
-        "author":"",
-        "nickname":"메모"
+        "author":"로유진",
+        "nickname":"메모",
+        "publisher":[
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.nhn?productNo=3189369"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/54846551"
+          },
+          {
+            "name":"리디북스",
+            "url":"https://ridibooks.com/books/102052227"
+          },
+          {
+            "name":"조아라",
+            "url":"https://www.joara.com/book/714701"
+          }
+        ],
+        "status": "1"
       },
       {
         "title":"메이지 슬레이어",
-        "author":"",
-        "nickname":"메슬"
+        "author":"학인생",
+        "nickname":"메슬",
+        "publisher":[
+          {
+            "name":"문피아",
+            "url":"https://novel.munpia.com/209657"
+          },
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.nhn?productNo=5574062"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/56042462"
+          },
+          {
+            "name":"리디북스",
+            "url":"https://ridibooks.com/books/425187747"
+          },
+          {
+            "name":"조아라",
+            "url":"https://www.joara.com/book/1499744"
+          }
+        ],
+        "status": "1"
       },
       {
         "title":"메인 히로인들이 나를 죽이려 한다",
-        "author":"",
-        "nickname":"메나죽"
+        "author":"김마모",
+        "nickname":"메나죽",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/29912"
+          }
+        ],
+        "status": "1"
       },
       {
         "title":"멸망 이후의 세계",
-        "author":"",
-        "nickname":"멸이세"
+        "author":"싱숑",
+        "nickname":"멸이세",
+        "publisher":[
+          {
+            "name":"문피아",
+            "url":"https://novel.munpia.com/303365"
+          },
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.series?productNo=8147164"
+          }
+        ],
+        "status": "1"
       },
       {
         "title":"멸망 중인 세상 마지막 신이 되었다",
-        "author":"",
-        "nickname":"멸세마신"
+        "author":"하드폭발",
+        "nickname":"멸세마신",
+        "publisher":[
+          {
+            "name":"문피아",
+            "url":"https://novel.munpia.com/288969"
+          },
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.series?productNo=8212463"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/59701105"
+          },
+          {
+            "name":"리디북스",
+            "url":"https://ridibooks.com/books/425284341"
+          }
+        ],
+        "status": "1"
       },
       {
         "title":"멸망한 세계의 사냥꾼",
-        "author":"",
-        "nickname":"멸세사"
+        "author":"글쟁이S",
+        "nickname":"멸세사",
+        "publisher":[
+          {
+            "name":"문피아",
+            "url":"https://novel.munpia.com/85207"
+          },
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.nhn?productNo=2914592"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/50585976"
+          },
+          {
+            "name":"리디북스",
+            "url":"https://ridibooks.com/books/425028415"
+          },
+          {
+            "name":"조아라",
+            "url":"https://www.joara.com/book/1294015"
+          }
+        ],
+        "status": "1"
       },
       {
         "title":"명문고 EX급 조연의 리플레이",
-        "author":"",
-        "nickname":"명문고"
+        "author":"기월월",
+        "nickname":"명문고",
+        "publisher":[
+          {
+            "name":"문피아",
+            "url":"https://novel.munpia.com/170423"
+          },
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.series?productNo=4844784"
+          },
+          {
+            "name":"리디북스",
+            "url":"https://ridibooks.com/books/1377070427"
+          }
+        ]
       },
       {
         "title":"모나리자가 나를 덮침",
-        "author":"",
-        "nickname":"모나리자"
+        "author":"윷쿠리",
+        "nickname":"모나리자",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/854"
+          }
+        ],
+        "status": "1"
       },
       {
         "title":"모르는 만화에 빙의했다",
-        "author":"",
-        "nickname":"몰루빙의"
+        "author":"티치",
+        "nickname":"몰루빙의",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/55758"
+          }
+        ]
       },
       {
         "title":"모스크바의 여명",
-        "author":"",
-        "nickname":"모스크바, 모여명"
+        "author":"황장미",
+        "nickname":"모스크바, 모여명",
+        "publisher":[
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.nhn?productNo=4077568"
+          }
+        ]
       },
       {
         "title":"모험가 파티에 짐꾼은 필요없다 ",
-        "author":"",
-        "nickname":"짐꾼필없"
+        "author":"꾸댕",
+        "nickname":"짐꾼필없",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/79131"
+          }
+        ],
+        "status": "2"
       },
       {
         "title":"무림 속 외노자가 되었다",
@@ -1190,38 +1724,112 @@
       },
       {
         "title":"무영창 마법사는 화형이 상식이잖아요?",
-        "author":"",
-        "nickname":"무영창"
+        "author":"함초소금",
+        "nickname":"무영창",
+        "publisher":[
+          {
+            "name":"문피아",
+            "url":"https://novel.munpia.com/251801"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/57225178"
+          }
+        ]
       },
       {
         "title":"무선연결 오나홀로 따먹기",
-        "author":"",
-        "nickname":"무나홀"
+        "author":"하루3딸",
+        "nickname":"무나홀",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/22736"
+          }
+        ]
       },
       {
         "title":"문제 1. 철수가 이세계에서 귀환했다",
-        "author":"",
-        "nickname":"문제철수"
+        "author":"은결과달빛",
+        "nickname":"문제철수",
+        "publisher":[
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.series?productNo=8319009"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/58163036"
+          },
+          {
+            "name":"리디북스",
+            "url":"https://ridibooks.com/books/1811197218"
+          }
+        ],
+        "status": "1"
       },
       {
         "title":"미소녀를 창조하는 만년필",
-        "author":"",
-        "nickname":"만년필"
+        "author":"세피아톤",
+        "nickname":"만년필",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/6410"
+          }
+        ],
+        "status": "1"
       },
       {
         "title":"미래에서 온 연재편지",
-        "author":"",
-        "nickname":"미래편지"
+        "author":"알콜중독",
+        "nickname":"미래편지",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/52791"
+          }
+        ]
       },
       {
         "title":"미연시인데 연애를 할 수 없는 건에 대하여",
-        "author":"",
-        "nickname":"롬연시"
+        "author":"포맷",
+        "nickname":"롬연시",
+        "publisher":[
+          {
+            "name":"시리즈",
+            "url":"https://series.naver.com/novel/detail.nhn?productNo=3440527"
+          },
+          {
+            "name":"카카오페이지",
+            "url":"https://page.kakao.com/content/51199161"
+          },
+          {
+            "name":"리디북스",
+            "url":"https://ridibooks.com/books/1823004172"
+          },
+          {
+            "name":"조아라",
+            "url":"https://www.joara.com/book/1061753"
+          },
+          {
+            "name":"원스토리",
+            "url":"https://onestory.co.kr/detail/H040294607"
+          }
+        ],
+        "status": "1"
       },
       {
         "title":"미친년은 아니야",
-        "author":"",
-        "nickname":"미친년"
+        "author":"점마구고가",
+        "nickname":"미친년",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/8537"
+          }
+        ],
+        "status": "2"
       }
     ]
   },
@@ -1231,73 +1839,314 @@
     "novel": [
       {
         "title": "바람과 별무리",
-        "author": "",
-        "nickname": "바별"
+        "author": "흰콩",
+        "nickname": "바별",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/9694"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=1760973"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/47275961"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/945005936"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/738760"
+          },
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/25974"
+          }
+        ]
       },
       {
         "title": "바바리안 퀘스트",
-        "author": "",
-        "nickname": "바바퀘"
+        "author": "백수귀족",
+        "nickname": "바바퀘",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "http://novel.munpia.com/82021"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=2913475"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/50825396"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/2057010704"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1181830"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "방랑기사로 살아가는 법",
-        "author": "",
-        "nickname": "방랑기사"
+        "author": "글쓰는기계",
+        "nickname": "방랑기사",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/188910"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=5815140"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/54960767"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/1561007538"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "배움의 어머니",
-        "author": "",
-        "nickname": "배움어미, 배머니"
+        "author": "Domagoj Kurmaic(nobody103)",
+        "nickname": "배움어미, 배머니",
+        "publisher": [
+          {
+            "name": "픽션프레스",
+            "url": "https://www.fictionpress.com/s/2961893/1/Mother-of-Learning"
+          },
+          {
+            "name": "RoyalRoad",
+            "url": "https://www.royalroad.com/fiction/21220/mother-of-learning"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "백작가의 망나니가 되었다",
-        "author": "",
-        "nickname": "백망되"
+        "author": "유려한",
+        "nickname": "백망되",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/113612"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=3522708"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/51863028"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/875103701"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1322296"
+          },
+          {
+            "name": "원스토리",
+            "url": "https://onestory.co.kr/detail/H034516792"
+          }
+        ]
       },
       {
         "title": "백합이 붉게 물들기 전에",
-        "author": "",
-        "nickname": "백합붉게"
+        "author": "saya",
+        "nickname": "백합붉게",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/10708"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "뱅퀴어 더 드래곤",
-        "author": "",
-        "nickname": "뱅퀴어"
+        "author": "Maxime J. Durand (Void Herald)",
+        "nickname": "뱅퀴어",
+        "publisher": [
+          {
+            "name": "RoyalRoad",
+            "url": "https://www.royalroad.com/fiction/26534/vainqueur-the-dragon"
+          },
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/212440"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=5400561"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/425214605"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "변방의 외노자",
-        "author": "",
-        "nickname": "변노자"
+        "author": "후로스트",
+        "nickname": "변노자",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/200726"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=5387725"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/425188808"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1510241"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "별을 품은 소드마스터",
-        "author": "",
-        "nickname": "별품소"
+        "author": "Q10",
+        "nickname": "별품소",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/254718"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=6307545"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "부디, 레오네라 불러주시길",
-        "author": "",
-        "nickname": "레오네"
+        "author": "챠앙",
+        "nickname": "레오네",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/8450"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1037649"
+          }
+        ]
       },
       {
         "title": "부패의 사제",
-        "author": "",
-        "nickname": "부패마망"
+        "author": "사다듬",
+        "nickname": "부패마망",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/206700"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=5747796"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/56250127"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/425189730"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1515696"
+          }
+        ]
       },
       {
         "title": "붕어된 썰 품 ㅋㅋㅋ",
-        "author": "",
-        "nickname": "붕태창"
+        "author": "쫄면에삼겹",
+        "nickname": "붕태창",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/188680"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=5100077"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/54931572"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/3076005298"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "빌어먹을 환생",
-        "author": "",
-        "nickname": "빌환"
+        "author": "목마",
+        "nickname": "빌환",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/222360"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=5935188"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/56071101"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/2057138075"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1517448"
+          }
+        ]
       },
       {
         "title": "빡대가리, 귀머거리, 히키코모리",
-        "author": "",
-        "nickname": "빡귀히"
+        "author": "파비야",
+        "nickname": "빡귀히",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/92"
+          }
+        ],
+        "status": "1"
       }
     ]
   },
@@ -1307,103 +2156,342 @@
     "novel": [
       {
         "title": "사나운 달이 뜨는 도시",
-        "author": "",
-        "nickname": "사나달"
+        "author": "어두운글",
+        "nickname": "사나달",
+        "status": "2"
       },
       {
         "title": "사상 최강의 매니저",
-        "author": "",
-        "nickname": "사최매"
+        "author": "글쟁이S",
+        "nickname": "사최매",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/67420"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=2562682"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/49882708"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/425012214"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1276402"
+          },
+          {
+            "name": "원스토리",
+            "url": "https://onestory.co.kr/detail/H023042849"
+          }
+        ]
       },
       {
         "title": "사상 최강의 메이드",
-        "author": "",
-        "nickname": "사최메"
+        "author": "삐리릭빠바박",
+        "nickname": "사최메",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/661"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "사상 최강의 보안관",
-        "author": "",
-        "nickname": "사최보"
+        "author": "글쟁이S",
+        "nickname": "사최보",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/133226"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=3934335"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/52447549"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/425100109"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1362665"
+          },
+          {
+            "name": "원스토리",
+            "url": "https://onestory.co.kr/detail/H035689020"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "상태창빨로 살아남기",
-        "author": "",
-        "nickname": "상태창빨"
+        "author": "허브캣",
+        "nickname": "상태창빨",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/249271"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=6186762"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/57625646"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://page.kakao.com/content/57625646"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "새 게임을 시작합니다",
-        "author": "",
-        "nickname": "새게임"
+        "author": "종가집",
+        "nickname": "새게임",
+        "publisher": [
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/49612573"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "새끼용 아키를 주웠다",
-        "author": "",
-        "nickname": "아키, 아키땃쥐"
+        "author": "정훈鄭薰",
+        "nickname": "아키, 아키땃쥐",
+        "status": "2"
       },
       {
         "title": "세계수를 따먹다",
-        "author": "",
-        "nickname": "세따먹"
+        "author": "야명",
+        "nickname": "세따먹",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/33059"
+          }
+        ]
       },
       {
         "title": "세계 최강 딸내미",
-        "author": "",
-        "nickname": "세최딸"
+        "author": "쥐돌이",
+        "nickname": "세최딸",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/37790"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "샤이닝 로드",
-        "author": "",
-        "nickname": "빛길"
+        "author": "더노트",
+        "nickname": "빛길",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/143986"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=3410453"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/51119529"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/1190018331"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "성녀가 아니고 성녀의 호위기사가 되었다",
-        "author": "",
-        "nickname": "성녀호위"
+        "author": "라르닐",
+        "nickname": "성녀호위",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/39"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1487568"
+          }
+        ],
+        "status": "2"
       },
       {
         "title": "성녀가 된 넷카마는 흑역사를 덮고 싶어",
-        "author": "",
-        "nickname": "넷카마 성녀"
+        "author": "초계탕",
+        "nickname": "넷카마 성녀",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/20392"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "소꿉친구는 천재 마법사",
-        "author": "",
-        "nickname": "소꿉천마"
+        "author": "헤헹",
+        "nickname": "소꿉천마",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/7990"
+          }
+        ],
+        "status": "2"
       },
       {
-        "title": "소녀 용사의 항_문이 되었다",
-        "author": "",
-        "nickname": "소녀용사"
+        "title": "소녀 용사의 항문이 되었다",
+        "author": "이상성욕",
+        "nickname": "소녀용사",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/31622"
+          }
+        ]
       },
       {
         "title": "소녀는 살해당하고 싶다",
-        "author": "",
-        "nickname": "소녀살해"
+        "author": "여실정행",
+        "nickname": "소녀살해",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/20928"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "소녀여 천사가 되어라",
-        "author": "",
-        "nickname": "소녀천사, 소천되"
+        "author": "위뷔",
+        "nickname": "소녀천사, 소천되",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/6851"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "소설 속 EX급 천재가 되었다",
-        "author": "",
-        "nickname": "차차차"
+        "author": "하이너",
+        "nickname": "차차차",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/206252"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=5993551"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/56035203"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/425189321"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "소설 속 엑스트라",
-        "author": "",
-        "nickname": "소엑"
+        "author": "지갑송",
+        "nickname": "소엑",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "http://novel.munpia.com/112155"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=3549008"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/51752314"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://page.kakao.com/content/51752314"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1301411"
+          },
+          {
+            "name": "원스토리",
+            "url": "https://onestory.co.kr/detail/H034799412"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "소설 속 회귀자를 따먹음",
-        "author": "",
-        "nickname": "회따먹"
+        "author": "김리신",
+        "nickname": "회따먹",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/432"
+          }
+        ]
       },
       {
         "title": "소설 속 흑막이 되련다",
-        "author": "",
-        "nickname": "아카흑막"
+        "author": "유래향",
+        "nickname": "아카흑막",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "http://novel.munpia.com/220257"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=6218944"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/57429506"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/425218380"
+          },
+            {
+                "name": "조아라",
+                "url": "https://www.joara.com/book/1555454"
+            }
+        ]
       },
       {
         "title": "소환 학원의 먼치킨",
