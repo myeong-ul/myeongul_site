@@ -33,9 +33,9 @@ main.get('/404', function(req, res, next) {
 //set router
 main.use('/',indexRouter);
 main.use('/novel', novelRouter);
-main.get('/*', function(req, res, next) {
-    return res.redirect('/404');
-});
+// main.get('/*', function(req, res, next) {
+//     return res.status(404).redirect('/404');
+// });
 
 // catch 404 and forward to error handler
 main.use(function(req, res, next) {

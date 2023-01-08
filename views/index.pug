@@ -14,13 +14,13 @@ block content
         let resizing = function () {
             if (window.innerHeight > 800) {
                 if (window.scrollbars) {
-                    document.querySelector('#blogarea').style.height = window.innerHeight - 300 + 'px';
+                    return document.querySelector('#blogarea').style.height = window.innerHeight - 300 + 'px';
                 } else {
-                    document.querySelector('#blogarea').style.height = window.innerHeight - 200 + 'px';
+                    return document.querySelector('#blogarea').style.height = window.innerHeight - 200 + 'px';
                 }
             } else {
-                document.querySelector('#blogarea').style.height = '500px';
+                return document.querySelector('#blogarea').style.height = '500px';
             }
         }
-        window.onload = ()=>{resizing();};
-        window.onresize = ()=>{resizing();};
+        window.onload = resizing();
+        window.onresize = resizing();

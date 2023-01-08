@@ -20,7 +20,7 @@ scheduler.scheduleJob('0 0 0 * * *', function(){
         date= new Date().toLocaleString();
         if (err) throw err;
         novel = JSON.parse(data);
-        console.log("novel.json loaded");
+        console.log(date + " novel.json loaded");
     });
 });
 
