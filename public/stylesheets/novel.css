@@ -46,6 +46,10 @@ a[href="#top"] {
     color: #000;
     font-size: 20px;
 }
+.novel_list ul li {
+    padding: 1px 0;
+    margin: 0;
+}
 .novel_list ul li a {
     text-decoration: none;
     color: cornflowerblue;
@@ -61,11 +65,19 @@ a[href="#top"] {
     font-weight: bold;
     color:#1B9BC6;
     background-color: greenyellow;
+    border-radius: 5px;
+    border-color: #707070;
+    border-width: 1px;
+    border-style: solid;
 }
 .novel_list ul li span[value="title_stop"] {
     font-weight: bold;
     color:black;
     background-color: orangered;
+    border-radius: 5px;
+    border-color: #707070;
+    border-width: 1px;
+    border-style: solid;
 }
 .novel_list ul li span[value="author"] {
     font-size: 12px;
