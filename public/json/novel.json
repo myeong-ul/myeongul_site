@@ -1719,13 +1719,8 @@
       },
       {
         "title":"무림 속 외노자가 되었다",
-        "author":"",
-        "nickname":"무노자"
-      },
-      {
-        "title":"무영창 마법사는 화형이 상식이잖아요?",
         "author":"함초소금",
-        "nickname":"무영창",
+        "nickname":"무노자",
         "publisher":[
           {
             "name":"문피아",
@@ -1736,6 +1731,18 @@
             "url":"https://page.kakao.com/content/57225178"
           }
         ]
+      },
+      {
+        "title":"무영창 마법사는 화형이 상식이잖아요?",
+        "author":"븩토네스크",
+        "nickname":"무영창",
+        "publisher":[
+          {
+            "name":"노벨피아",
+            "url":"https://novelpia.com/novel/30697"
+          }
+        ],
+        "status": "1"
       },
       {
         "title":"무선연결 오나홀로 따먹기",
