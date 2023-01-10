@@ -2437,7 +2437,7 @@
         "publisher": [
           {
             "name": "문피아",
-            "url": "http://novel.munpia.com/112155"
+            "url": "https://novel.munpia.com/112155"
           },
           {
             "name": "시리즈",
@@ -2502,43 +2502,157 @@
       },
       {
         "title": "소환 학원의 먼치킨",
-        "author": "",
-        "nickname": "한남소환"
+        "author": "데프프픗",
+        "nickname": "한남소환",
+        "status": "1",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/213693"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=5441994"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/56386140"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/425208552"
+          }
+        ]
       },
       {
         "title": "소환사 아카데미의 최강자",
-        "author": "",
-        "nickname": "처녀서큐"
+        "author": "세피아톤",
+        "nickname": "처녀서큐",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/215476"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=6134236"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/56750794"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/3885003031"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "시스템 에러로 종족초월",
-        "author": "",
-        "nickname": "종족초월"
+        "author": "준솔",
+        "nickname": "종족초월",
+        "status": "1",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/163947"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=4699414"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/53906754"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/2749011201"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1406541"
+          }
+        ]
       },
       {
         "title": "시한부 천재가 살아남는 법",
-        "author": "",
-        "nickname": "시한부천재, 시천재 , 시천살"
+        "author": "청시소",
+        "nickname": "시한부천재, 시천재 , 시천살",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/229405"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=5896155"
+          }
+        ]
       },
       {
         "title": "싱글벙글 걸그룹 메이커",
-        "author": "",
-        "nickname": "싱걸메"
+        "author": "burn8",
+        "nickname": "싱걸메",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/214265"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=5609748"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/58061745"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/3586015811"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1582065"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "실험체 1313이 되었다",
-        "author": "",
-        "nickname": "1313"
+        "author": "심심한걸",
+        "nickname": "1313",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/19456"
+          }
+        ]
       },
       {
         "title": "슬라브식 스트리머",
-        "author": "",
-        "nickname": "슬라브, 인방닷디"
+        "author": "체이싱",
+        "nickname": "슬라브, 인방닷디",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/21056"
+          }
+        ],
+        "status": "2"
       },
       {
-        "title": "소꿉친구가 섹스하면 몸이 바뀜",
-        "author": "",
-        "nickname": "소꿉역전"
+        "title": "소꿉친구랑 섹스하면 몸이 바뀜",
+        "author": "존잘인생",
+        "nickname": "소꿉역전",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/46731"
+          }
+        ],
+        "status": "1"
       }
     ]
   },
@@ -2548,193 +2662,639 @@
     "novel": [
       {
         "title": "아기는 악당을 키운다",
-        "author": "",
-        "nickname": "아악키"
+        "author": "리샤",
+        "nickname": "아악키",
+        "publisher": [
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/53811972"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "아빠가 너무 강함",
-        "author": "",
-        "nickname": "아넘강"
+        "author": "개벽S",
+        "nickname": "아넘강",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/140616"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=4158689"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/53158934"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/2065023230"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1379459"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "아카데미 검은 머리 외국인",
-        "author": "",
-        "nickname": "아카검머외, 아카쿠로"
+        "author": "노빠구맨",
+        "nickname": "아카검머외, 아카쿠로",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/261064"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=6458780"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/58749500"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/425258590"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1599348"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "아카데미 고인물이 다 해먹음",
-        "author": "",
-        "nickname": "아카고"
+        "author": "민트맛맥콜",
+        "nickname": "아카고",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/21057"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "아카데미 얼굴천재가 되었다",
-        "author": "",
-        "nickname": "아카얼천, 얼굴천재"
+        "author": "4cachips",
+        "nickname": "아카얼천, 얼굴천재",
+        "publisher": [
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/57998689"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "아카데미 야겜에 빙의했다",
-        "author": "",
-        "nickname": "아카야겜"
+        "author": "사탕꽃",
+        "nickname": "아카야겜",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/1249"
+          },
+          {
+            "name": "원스토리",
+            "url": "https://onestory.co.kr/detail/H043097805"
+          }
+        ]
       },
       {
         "title": "아카데미 웃음벨캐릭터가 되었다",
-        "author": "",
-        "nickname": "아카웃음벨"
+        "author": "양파랑",
+        "nickname": "아카웃음벨",
+        "publisher": [
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/58058213"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "아카데미 최강의 매점아저씨",
-        "author": "",
-        "nickname": "아카매점"
+        "author": "월하야상곡",
+        "nickname": "아카매점",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/39874"
+          },
+          {
+            "name": "원스토리",
+            "url": "https://onestory.co.kr/detail/H043514916"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "아카데미 천재단역",
-        "author": "",
-        "nickname": "천재단역"
+        "author": "손프로",
+        "nickname": "천재단역",
+        "publisher": [
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/56483521"
+          }
+        ]
       },
       {
         "title": "아카데미 카우보이가 되었다",
-        "author": "",
-        "nickname": "아카카우"
+        "author": "홍삼더덕",
+        "nickname": "아카카우",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/226598"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=6847985"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/57656170"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/425240787"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "아카데미 편의점으로 힐링할게요",
-        "author": "",
-        "nickname": "아카편"
+        "author": "커피는카누",
+        "nickname": "아카편, 아카편의점",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/265586"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=6543405"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/57770018"
+          }
+        ]
       },
       {
         "title": "아카데미 플레이어를 죽였다",
-        "author": "",
-        "nickname": "아카게이살"
+        "author": "사람살려.",
+        "nickname": "아카게이살",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/265428"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=6501783"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/58749862"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/425258640"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1601354"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "아카데미 선비의 생활일지",
-        "author": "",
-        "nickname": "아카선비"
+        "author": "가짜선비",
+        "nickname": "아카선비",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/51574"
+          }
+        ],
+        "status": "2"
       },
       {
         "title": "아카데미 주인공 방해합니다",
-        "author": "",
-        "nickname": "아카방해"
+        "author": "자기반성중",
+        "nickname": "아카방해",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/24421"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "아카데미 히로인 오른쪽 대각선 뒷자리",
-        "author": "",
-        "nickname": "아카빵"
+        "author": "사리망",
+        "nickname": "아카빵",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/4715"
+          }
+        ]
       },
       {
         "title": "아카데미에서 살아남기",
-        "author": "",
-        "nickname": "아카살"
+        "author": "코리타",
+        "nickname": "아카살",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/240910"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=6484753"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "아카메디 아카데미",
-        "author": "",
-        "nickname": "아카메디"
+        "author": "입스위치",
+        "nickname": "아카메디",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/22299"
+          }
+        ],
+        "status": "2"
       },
       {
         "title": "아팔루사는 부서지지 않는다",
-        "author": "",
-        "nickname": "아팔루사"
+        "author": "화력발전소",
+        "nickname": "아팔루사",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/13225"
+          }
+        ]
       },
       {
         "title": "아포칼립스 사이비 교주",
-        "author": "",
-        "nickname": "아포사이비"
+        "author": "지팡이",
+        "nickname": "아포사이비",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/6008"
+          }
+        ],
+        "status": "2"
       },
       {
         "title": "아싸 찐따 네크로맨서",
-        "author": "",
-        "nickname": "아찐넥, 아찐네크"
+        "author": "신채화",
+        "nickname": "아찐넥, 아찐네크",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/41283"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "악녀를 갱생시켜라",
-        "author": "",
-        "nickname": "악녀갱생"
+        "author": "오당티",
+        "nickname": "악녀갱생",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/73524"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "악당영애 길들이기",
-        "author": "",
-        "nickname": "악영길"
+        "author": "미츄리",
+        "nickname": "악영길",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/7082"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "악당은 살고 싶다",
-        "author": "",
-        "nickname": "악살싶"
+        "author": "지갑송",
+        "nickname": "악살싶",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/236702"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=6276367"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/56807841"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/2057151411"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1553717"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "악신에게서 살아남기",
-        "author": "",
-        "nickname": "악신살"
+        "author": "SirLogan",
+        "nickname": "악신살",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/25178"
+          }
+        ]
       },
       {
         "title": "악마가 힘을 숨김",
-        "author": "",
-        "nickname": "악힘숨"
+        "author": "로드워리어",
+        "nickname": "악힘숨",
+        "publisher": [
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=8059444"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/56225958"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/3092016078"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "악역영애 말포이",
-        "author": "",
-        "nickname": "말포이"
+        "author": "고속도루",
+        "nickname": "말포이",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/3291"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "악역 영애가 되긴 싫어",
-        "author": "",
-        "nickname": "악영싫"
+        "author": "십삼중수소",
+        "nickname": "악영싫",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/73375"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "악역 영애가 체질에 맞는다",
-        "author": "",
-        "nickname": "악영체, 악영체질"
+        "author": "위지",
+        "nickname": "악영체, 악영체질",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/81520"
+          }
+        ],
+        "status": "2"
       },
       {
         "title": "악역영애가 아니라, 메이드",
-        "author": "",
-        "nickname": "악영메"
+        "author": "야광무너",
+        "nickname": "악영메",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/56218"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "악역영애가 아니라 영애님이에요",
-        "author": "",
-        "nickname": "악영아, 악영아님"
+        "author": "막돼먹은영애님",
+        "nickname": "악영아, 악영아님",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/86256"
+          }
+        ]
       },
       {
         "title": "안 보이는 투명츄",
-        "author": "",
-        "nickname": "투명츄"
+        "author": "고하솜",
+        "nickname": "투명츄",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/109759"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/2378004014"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1331631"
+          },
+          {
+            "name": "원스토리",
+            "url": "https://onestory.co.kr/detail/H034921624"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "애기븝미쟝이 되었다",
-        "author": "",
-        "nickname": "애기븝미쟝"
+        "author": "신사너구리",
+        "nickname": "애기븝미쟝",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/219753"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=5657135"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/56328081"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/1377080091"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1513671"
+          }
+        ],
+        "status": "2"
       },
       {
         "title": "애완인간이 되었다",
-        "author": "",
-        "nickname": "애완인간"
+        "author": "제스키위",
+        "nickname": "애완인간",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/206313"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=5743974"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/58709935"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/2107068507"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "야설로 보는 그리스 로마 신화",
-        "author": "",
-        "nickname": "그로신(외도정사의 작품 슬피우는영혼의 그로신과는 다르다)"
+        "author": "외도정사",
+        "nickname": "그로신(외도정사의 작품 슬피우는영혼의 그로신과는 다르다)",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/9282"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "약 먹는 천재마법사",
-        "author": "",
-        "nickname": "약먹마"
+        "author": "글근육",
+        "nickname": "약먹마",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/223890"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=5898804"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/56143162"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/2057137755"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1535044"
+          }
+        ]
       },
       {
         "title": "약관 동의는 신중히",
-        "author": "",
-        "nickname": "약관동의"
+        "author": "알콜중독",
+        "nickname": "약관동의",
+        "publisher": [
+          {
+            "name": "노벨피아",
+            "url": "https://novelpia.com/novel/1149"
+          },
+          {
+            "name": "조아라",
+            "url": "https://www.joara.com/book/1522837"
+          }
+        ],
+        "status": "2"
       },
       {
         "title": "양아치가 조상을 수집함",
-        "author": "",
-        "nickname": "양조수"
+        "author": "옴니버",
+        "nickname": "양조수",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/200197"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.series?productNo=6663464"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/55903941"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/425242002"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "양학하는 기갑헌터",
-        "author": "",
-        "nickname": "한남기갑"
+        "author": "데프프픗",
+        "nickname": "한남기갑",
+        "publisher": [
+          {
+            "name": "문피아",
+            "url": "https://novel.munpia.com/174355"
+          },
+          {
+            "name": "시리즈",
+            "url": "https://series.naver.com/novel/detail.nhn?productNo=4879801"
+          },
+          {
+            "name": "카카오페이지",
+            "url": "https://page.kakao.com/content/54504444"
+          },
+          {
+            "name": "리디북스",
+            "url": "https://ridibooks.com/books/875121867"
+          }
+        ],
+        "status": "1"
       },
       {
         "title": "어반판타지속 흑막이 되었다",
