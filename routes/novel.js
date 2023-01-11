@@ -10,14 +10,14 @@ var scheduler = require('node-schedule');
 var novel;
 let date;
 fs.readFile(path.join(__dirname,'../public','json', 'novel.json'), 'utf8', function(err, data) {
-    date = new Date().toLocaleString();
+    date = new Date().toLocaleString('ko-KR', {timeZone: 'Asia/Seoul'});
     if (err) throw err;
     novel = JSON.parse(data);
 });
 // load novel.json file every at am 00:00 GMT+9
 scheduler.scheduleJob('0 0 0 * * *', function(){
     fs.readFile(path.join(__dirname,'../public','json', 'novel.json'), 'utf8', function(err, data){
-        date= new Date().toLocaleString();
+        date= new Date().toLocaleString('ko-KR', {timeZone: 'Asia/Seoul'});
         if (err) throw err;
         novel = JSON.parse(data);
         console.log(date + " novel.json loaded");

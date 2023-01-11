@@ -3,7 +3,7 @@ const path = require('path')
 const logger = require('morgan')
 
 logger.token('date', function (req, res) {
-    return new Date().toLocaleString()
+    return new Date().toLocaleString('ko-KR', {timeZone: 'Asia/Seoul'})
 });
 
 const accessLogStream = fs.createWriteStream(
