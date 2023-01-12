@@ -1,13 +1,13 @@
 // import modules
-var express = require('express');
-var router = express.Router();
-var path = require('path');
-var fs = require('fs');
-var scheduler = require('node-schedule');
+const express = require('express');
+const router = express.Router();
+const path = require('path');
+const fs = require('fs');
+const scheduler = require('node-schedule');
 
 
 // load novel data from json file at server start
-var novel;
+let novel;
 let date;
 fs.readFile(path.join(__dirname,'../public','json', 'novel.json'), 'utf8', function(err, data) {
     date = new Date().toLocaleString('ko-KR', {timeZone: 'Asia/Seoul'});
@@ -17,10 +17,16 @@ fs.readFile(path.join(__dirname,'../public','json', 'novel.json'), 'utf8', funct
 // load novel.json file every at am 00:00 GMT+9
 scheduler.scheduleJob('0 0 0 * * *', function(){
     fs.readFile(path.join(__dirname,'../public','json', 'novel.json'), 'utf8', function(err, data){
-        date= new Date().toLocaleString('ko-KR', {timeZone: 'Asia/Seoul'});
         if (err) throw err;
-        novel = JSON.parse(data);
-        console.log(date + " novel.json loaded");
+        let Data = JSON.parse(data);
+        if (JSON.stringify(novel) !== JSON.stringify(Data)){
+            novel = Data;
+            date = new Date().toLocaleString('ko-KR', {timeZone: 'Asia/Seoul'});
+            console.log(date + " novel.json loaded");
+        }
+        else {
+            console.log(new Date().toLocaleString('ko-KR', {timeZone: 'Asia/Seoul'}) + " novel.json is not changed");
+        }
     });
 });
 
